@@ -1,4 +1,5 @@
 (Ödevde öğrencilerden yapılması istenenler)
+
 Selamlar herkese 🙂 
 
 Henuz github classroomdan bir repo olusturmadik. Diger odevler gibi olusturuyor olacagiz. Odev icin asagida aciklamali sekilde belirtiyorum 🙂 Simdiden kolay gelsin
